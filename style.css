@@ -197,7 +197,7 @@ p{
 
 
 #name{
-    background-image: url(./img/main3.jpg);
+    background-image: url(main3.jpg);
     background-size: cover;
     object-fit: contain;
     background-position: top center;
